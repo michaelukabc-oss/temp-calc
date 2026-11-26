@@ -1,0 +1,13 @@
+hearth:
+color: red
+shape: star
+encodding:
+   - 10space1shape
+   - 9space3shape
+   - 8space5shape
+   - 2space18shape
+   - 4space14shape
+   - 6spae9shape
+   - 8space5shape
+   - 9space3shape
+   - 10space1shape
